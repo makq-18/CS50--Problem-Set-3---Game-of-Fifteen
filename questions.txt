@@ -1,0 +1,9 @@
+questions.txt
+
+Computer Science 50
+Problem Set 3
+
+1. Besides 4x4, game of fifteen supports 3x3,5x5,6x6,7x7,8x8, and 9x9.
+2. int and char.
+3. greet()
+4. init() , draw(), move(), and won().
